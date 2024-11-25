@@ -1,2 +1,2 @@
-# Gut_Dynamics-
-Storing videos and images from crayfish gut dynamics analysis
+# Data Storage -
+Storing videos and images for 'Python for bioimaging bootcamp'
